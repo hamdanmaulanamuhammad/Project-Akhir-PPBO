@@ -23,7 +23,6 @@ public class Main {
                 if (option == 0) {
                     break;
                 }
-
                 switch (option) {
                     case 1:
                         menu.addPhysicalBookToList();
